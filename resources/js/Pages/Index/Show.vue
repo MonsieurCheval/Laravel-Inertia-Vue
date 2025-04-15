@@ -1,10 +1,7 @@
-
 <template>
-    <div>Index</div>
-    <Link href="/hello">Show page</Link>
+    <div>Show</div>
+    <Link href="/">Main </Link>
 </template>
-
-
 
 
 

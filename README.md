@@ -9,7 +9,8 @@ Source
 https://github.com/piotr-jura-udemy/master-laravel-vue-fullstack
 
 
-
+Inertia upgrade 
+https://v1.inertiajs.com/upgrade-guide
 
 
 
